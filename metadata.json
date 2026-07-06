@@ -1,0 +1,10 @@
+{
+  "name": "EchoScribeAI",
+  "description": "Upload or record audio to get structured transcripts (dialogue-wise or Minutes of Meeting style) and AI-generated summaries, with text and PDF downloads.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
